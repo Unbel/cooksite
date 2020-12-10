@@ -6,8 +6,8 @@ sections:
     section_id: hero_section
     background_image: images/header.jpg
     content: |-
-      # Натуральные магические свечи 
-      Заряженные травами на любовь деньги и позитив
+      # Natural magic candles
+      powered by lerbs and  на любовь деньги и позитив
     actions:
       - title: See all items
         url: /store
